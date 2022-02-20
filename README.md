@@ -1,6 +1,7 @@
 ### Howdy!
 
 My name is Brady Moore. I love to bring ideas to life with technology.
+
 Game Design is my passion 🎮🕹🎲
 
 
