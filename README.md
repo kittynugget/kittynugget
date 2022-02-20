@@ -6,6 +6,8 @@ Game Design is my passion 🎮🕹🎲
 
 [Resume](https://github.com/kittynugget/kittynugget/raw/main/Resume.pdf)
 
+[itch.io](https://kittynugget.itch.io/)
+
 <!--
 **kittynugget/kittynugget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
