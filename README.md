@@ -1,12 +1,14 @@
 ### Howdy!
 
-My name is Brady Moore. I love to bring ideas to life with technology.
+My name is Brady Moore. I love to bring ideas to life with technology. I am an alumni of the University of California, Santa Cruz, where I received a Bachelor of Science in Computer Game Design. 
 
-Game Design is my passion 🎮🕹🎲
+Game Design is my passion 🕹🎲
 
-[Resume](https://github.com/kittynugget/kittynugget/raw/main/Resume.pdf)
+📃 [Resume](https://github.com/kittynugget/kittynugget/raw/main/Resume.pdf)
 
-[itch.io](https://kittynugget.itch.io/)
+🎮 [itch.io](https://kittynugget.itch.io/)
+
+💼 [LinkedIn](https://kittynugget.itch.io/)
 
 <!--
 **kittynugget/kittynugget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
