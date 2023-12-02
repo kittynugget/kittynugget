@@ -4,7 +4,7 @@ My name is Brady Moore. I love to bring ideas to life with technology. I am an a
 
 Game Design is my passion 🕹🎲
 
-📃 [Resume](https://github.com/kittynugget/kittynugget/raw/main/Resume.pdf)
+📃 [Resume](https://github.com/kittynugget/kittynugget/files/13532766/Resume.pdf)
 
 🎮 [itch.io](https://kittynugget.itch.io/)
 
